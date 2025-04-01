@@ -1,0 +1,14 @@
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\obj\Debug\net8.0\Fibonacci_BikbulatovAinur409.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\obj\Debug\net8.0\Fibonacci_BikbulatovAinur409.AssemblyInfoInputs.cache
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\obj\Debug\net8.0\Fibonacci_BikbulatovAinur409.AssemblyInfo.cs
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\obj\Debug\net8.0\Fibonacci_BikbulatovAinur409.csproj.CoreCompileInputs.cache
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\bin\Debug\net8.0\Fibonacci_BikbulatovAinur409.exe
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\bin\Debug\net8.0\Fibonacci_BikbulatovAinur409.deps.json
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\bin\Debug\net8.0\Fibonacci_BikbulatovAinur409.runtimeconfig.json
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\bin\Debug\net8.0\Fibonacci_BikbulatovAinur409.dll
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\bin\Debug\net8.0\Fibonacci_BikbulatovAinur409.pdb
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\obj\Debug\net8.0\Fibonacci_BikbulatovAinur409.dll
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\obj\Debug\net8.0\refint\Fibonacci_BikbulatovAinur409.dll
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\obj\Debug\net8.0\Fibonacci_BikbulatovAinur409.pdb
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\obj\Debug\net8.0\Fibonacci_BikbulatovAinur409.genruntimeconfig.cache
+C:\Users\Fantast\source\repos\Fibonacci_BikbulatovAinur409\Fibonacci_BikbulatovAinur409\obj\Debug\net8.0\ref\Fibonacci_BikbulatovAinur409.dll
